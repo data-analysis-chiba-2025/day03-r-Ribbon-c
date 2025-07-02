@@ -1,6 +1,6 @@
 # DAY 3 HOMEWORK
 #
-# Name:
+# Name:Chisato Murayama
 
 # 0. This demonstrates how to save your answers.
 # I've written the answer for you.
@@ -27,6 +27,12 @@ answer_0 <- 365 * 5
 
 weight_lb <- 160
 height_ft <- 6
+
+weight
+160*0.4536
+height
+6*0.3048
+answer_1<-72.576/(1.8288^2)
 
 # 2. The following code has an error. Fix it by editing the code.
 # (You don't need to save a separate answer for this one, just fix the code.)
